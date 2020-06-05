@@ -1,0 +1,40 @@
+{
+    "title": "调试助手帮助手册",
+    "author": "汇川工业云",
+    "description": "调试助手帮助手册",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+		"plugins": [
+				"-search",
+				"-highlight",
+				"search-plus@^0.0.11",
+				"simple-page-toc@^0.1.1",
+				"-sharing",
+				"sharing-plus@^0.0.2"
+		],
+		"pluginsConfig": {
+			"sharing": {
+				 "douban": false,
+				 "facebook": false,
+				 "google": false,
+				 "hatenaBookmark": false,
+				 "instapaper": false,
+				 "line": false,
+				 "linkedin": false,
+				 "messenger": false,
+				 "pocket": false,
+				 "qq": false,
+				 "qzone": false,
+				 "stumbleupon": false,
+				 "twitter": false,
+				 "viber": false,
+				 "vk": false,
+				 "weibo": false,
+				 "whatsapp": false,
+				 "all": []
+			 }
+		}
+}
